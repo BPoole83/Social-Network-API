@@ -110,8 +110,8 @@ Testing restful API calls with Insomnia Core
 
 ## Questions:
  Here is a link to my github:  
-https://github.com/civ187  
+https://github.com/BPoole83  
  Email me at:  
-civ187@gmail.com  
+Poole.Bryce@gmail.com  
 for additional questions
 
