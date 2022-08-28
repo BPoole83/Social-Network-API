@@ -106,7 +106,7 @@ Testing restful API calls with Insomnia Core
  This project is under no license.  
 
 ## Submission:
- [Github repository](https://github.com/civ187/social-network-API)
+ [Github repository](https://github.com/BPoole83/Social-Network-API)
 
 ## Questions:
  Here is a link to my github:  
